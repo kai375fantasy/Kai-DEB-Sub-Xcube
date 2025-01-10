@@ -29,4 +29,4 @@ This project is a Debugging & Logging subsystem designed as part of the CI517 mo
 ## **How to Run**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kai375fantasy/DEB-Sub-Xcube.git
+   git clone https://github.com/kai375fantasy/Kai-DEB-Sub-Xcube
